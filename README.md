@@ -1,5 +1,7 @@
 <h1>Todo-App</h1>
 
+![TodoApp gif](./TodoApp.gif)
+
 [👉 click here to login Todo-App](https://ilkerkr.github.io/Todo-App/)
 
 <h2>Project Skeleton</h2>
